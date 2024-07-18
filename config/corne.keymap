@@ -12,6 +12,7 @@
 / {
         behaviors {
                 #include "custommacros.dtsi"
+                #include "version.dtsi"
                 #ifndef VERSION_MACRO
                 macro_ver: macro_ver {
                         compatible = "zmk,behavior-macro";
