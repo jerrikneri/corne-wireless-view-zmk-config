@@ -9,6 +9,7 @@
 #include <dt-bindings/zmk/keys.h>
 
 #include "../zmk-helpers/helper.h"
+#include "./includes/homerow_mods_behaviors.dtsi"
 
 / {
     keymap {
